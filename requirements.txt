@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+langchain
+pymupdf
+sentence-transformers
+faiss-cpu
